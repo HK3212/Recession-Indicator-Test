@@ -6,6 +6,6 @@
   Unemployment Rate\
   Interest Rate Spread\
   OECD Business Confidence Index (BCI)\
-  and combination of listed indicators\
+  and a combination of listed indicators
 
 Recession data was trained and tested on SVM and logistical regression models.
