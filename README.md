@@ -1,7 +1,7 @@
 # Recession-Indicator-Test
-## Testing the prediction strength of various recession 
+## Testing the prediction strength of various recession indicators
 
-### indicators including:
+### Indicators:
   OECD Consumer Confidence Index (CCI)
   Unemployment Rate
   Interest Rate Spread
